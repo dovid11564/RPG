@@ -30,5 +30,6 @@
     {"name":"Room2","order":16,"path":"rooms/Room2/Room2.yy",},
     {"name":"spr_player_left","order":3,"path":"sprites/spr_player_left/spr_player_left.yy",},
     {"name":"Sprite2","order":1,"path":"sprites/Sprite2/Sprite2.yy",},
+    {"name":"spr_house_tile","order":10,"path":"sprites/spr_house_tile/spr_house_tile.yy",},
   ],
 }

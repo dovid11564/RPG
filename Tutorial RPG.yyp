@@ -44,6 +44,7 @@
     {"id":{"name":"spr_dovid_left","path":"sprites/spr_dovid_left/spr_dovid_left.yy",},},
     {"id":{"name":"spr_player_down","path":"sprites/spr_player_down/spr_player_down.yy",},},
     {"id":{"name":"obj_wall","path":"objects/obj_wall/obj_wall.yy",},},
+    {"id":{"name":"spr_bed","path":"sprites/spr_bed/spr_bed.yy",},},
     {"id":{"name":"spr_dovid_right","path":"sprites/spr_dovid_right/spr_dovid_right.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"spr_dovid_up","path":"sprites/spr_dovid_up/spr_dovid_up.yy",},},

@@ -1,6 +1,7 @@
-if place_meeting(x, y, obj_dovid) 
+if place_meeting(x, y, obj_dovid) && !instance_exists(obj_warp)
 	{
-	room_goto(target_rm);
-	obj_dovid.x = target_x;
-	obj_dovid.y = target_y;
+		var inst = instance_create_depth(0, 0, -9999, obj_warp);
+		inst.target_x = target_x;
+		inst.target_y = target_y;
+		inst.target_rm = target_rm;
 	}

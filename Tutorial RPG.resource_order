@@ -28,9 +28,11 @@
     {"name":"obj_bed","order":4,"path":"objects/obj_bed/obj_bed.yy",},
     {"name":"spr_bed","order":11,"path":"sprites/spr_bed/spr_bed.yy",},
     {"name":"spr_dovid_right","order":5,"path":"sprites/spr_dovid_right/spr_dovid_right.yy",},
+    {"name":"Sprite13","order":16,"path":"sprites/Sprite13/Sprite13.yy",},
     {"name":"spr_wall","order":1,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_dovid_up","order":9,"path":"sprites/spr_dovid_up/spr_dovid_up.yy",},
     {"name":"spr_player_left","order":3,"path":"sprites/spr_player_left/spr_player_left.yy",},
+    {"name":"rm_bedroom","order":1,"path":"rooms/rm_bedroom/rm_bedroom.yy",},
     {"name":"spr_house_tile","order":10,"path":"sprites/spr_house_tile/spr_house_tile.yy",},
   ],
 }

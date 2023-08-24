@@ -34,6 +34,7 @@
     "IDEVersion": "2023.6.0.92",
   },
   "resources": [
+    {"id":{"name":"obj_parralax_bg","path":"objects/obj_parralax_bg/obj_parralax_bg.yy",},},
     {"id":{"name":"obj_dovid","path":"objects/obj_dovid/obj_dovid.yy",},},
     {"id":{"name":"obj_warp_block","path":"objects/obj_warp_block/obj_warp_block.yy",},},
     {"id":{"name":"spr_dresser","path":"sprites/spr_dresser/spr_dresser.yy",},},
@@ -45,6 +46,7 @@
     {"id":{"name":"ts_house_tiles","path":"tilesets/ts_house_tiles/ts_house_tiles.yy",},},
     {"id":{"name":"obj_warp","path":"objects/obj_warp/obj_warp.yy",},},
     {"id":{"name":"spr_lil_dragon","path":"sprites/spr_lil_dragon/spr_lil_dragon.yy",},},
+    {"id":{"name":"spr_bg","path":"sprites/spr_bg/spr_bg.yy",},},
     {"id":{"name":"spr_dovid_left","path":"sprites/spr_dovid_left/spr_dovid_left.yy",},},
     {"id":{"name":"spr_player_down","path":"sprites/spr_player_down/spr_player_down.yy",},},
     {"id":{"name":"ts_outside","path":"tilesets/ts_outside/ts_outside.yy",},},
@@ -67,9 +69,9 @@
     {"id":{"name":"rm_living_room","path":"rooms/rm_living_room/rm_living_room.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"rm_outside","path":"rooms/rm_outside/rm_outside.yy",},},
     {"roomId":{"name":"rm_bedroom","path":"rooms/rm_bedroom/rm_bedroom.yy",},},
     {"roomId":{"name":"rm_living_room","path":"rooms/rm_living_room/rm_living_room.yy",},},
-    {"roomId":{"name":"rm_outside","path":"rooms/rm_outside/rm_outside.yy",},},
   ],
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
